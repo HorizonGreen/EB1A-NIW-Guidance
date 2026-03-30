@@ -1,13 +1,24 @@
-# EB1A-Guidance
+# EB1A + NIW Green Card DIY Guide
 
-### HorizonGreen 👋
+**地平线 HorizonGreen** | [horizongreen.org](https://horizongreen.org/)
 
-您可以免费获取 EB1A 杰出人才绿卡 + NIW 国家利益豁免 DIY 准备攻略指南 👉 [EB1A+NIW绿卡指南_ver.Jan2025.pdf](https://github.com/HorizonGreen/EB1A-Guidance/blob/main/EB1A%2BNIW%E7%BB%BF%E5%8D%A1%E6%8C%87%E5%8D%97_ver.Jan2025.pdf)
+免费下载最新版 EB1A 杰出人才 + NIW 国家利益豁免 DIY 准备攻略指南:
 
-地平线也提供免费评估规划，定制 NIW 和 EB1A 申请定制委托写作，地平线曾发表过 40+ 篇论文，会负责您的全部申请信材料。包括去阅读并分析您的背景材料和报道，深度挖掘证据链逻辑，突出您的贡献和亮点，整理论文、专利、引用记录及相关附件，联系推荐人写推荐信。所有材料没有模版，不需要您自己写几十页的研究和项目总结，是平日繁忙或拖延症患者最佳选择。
+[地平线EB1A+NIW绿卡DIY指南-山雪_2026.02.pdf](https://github.com/HorizonGreen/EB1A-NIW-Guidance/blob/main/%E5%9C%B0%E5%B9%B3%E7%BA%BFEB1A%2BNIW%E7%BB%BF%E5%8D%A1DIY%E6%8C%87%E5%8D%97-%E5%B1%B1%E9%9B%AA_2026.02.pdf)
 
-微信号：eb1a_horizon
+## About
 
-小红书：@地平线
+地平线基于 3,866+ 篇 AAO (Administrative Appeals Office) 上诉裁决的数据分析，覆盖 23 个专业领域，提供有据可查的申请策略。我们是科学家，不是律师 -- 用数据和证据说话。
+
+## Services
+
+- **免费评估规划** -- 确定你的申请路径和证据强度
+- **定制委托写作** -- 阅读并分析您的背景材料，深度挖掘证据链逻辑，突出贡献和亮点，整理论文、专利、引用记录及相关附件，联系推荐人写推荐信。所有材料从零定制，不用模版，不需要您自己写研究和项目总结
+
+## Contact
+
+- Website: [horizongreen.org](https://horizongreen.org/)
+- WeChat: eb1a_horizon
+- 小红书: @地平线
 
 <img src="https://github.com/EB1A-Horizon/EB1A-Horizon/blob/main/地平线-微信二维码.jpg" width="400" />
