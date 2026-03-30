@@ -1,6 +1,6 @@
 # EB1A + NIW Green Card DIY Guide
 
-**地平线 HorizonGreen** | [horizongreen.org](https://horizongreen.org/)
+由**地平线**和**山雪**编写，免费公开，原创首发于 [horizongreen.org](https://horizongreen.org/)
 
 免费下载最新版 EB1A 杰出人才 + NIW 国家利益豁免 DIY 准备攻略指南:
 
@@ -15,10 +15,16 @@
 - **免费评估规划** -- 确定你的申请路径和证据强度
 - **定制委托写作** -- 阅读并分析您的背景材料，深度挖掘证据链逻辑，突出贡献和亮点，整理论文、专利、引用记录及相关附件，联系推荐人写推荐信。所有材料从零定制，不用模版，不需要您自己写研究和项目总结
 
+## About Us
+
+**地平线** -- 基于 3,866+ 篇 AAO 上诉裁决的数据分析，覆盖 23 个专业领域
+
+**山雪** -- 医学科研与创业双重背景，已通过 NIW，撰写过科创白皮书，熟悉 NIW 与 EB1A 的政策逻辑
+
 ## Contact
 
 - Website: [horizongreen.org](https://horizongreen.org/)
-- WeChat: eb1a_horizon
-- 小红书: @地平线
+- 地平线 WeChat: eb1a_horizon | 小红书: @地平线
+- 山雪 WeChat: SnowMount_29 | 小红书: @Mount Snow
 
 <img src="https://github.com/EB1A-Horizon/EB1A-Horizon/blob/main/地平线-微信二维码.jpg" width="400" />
