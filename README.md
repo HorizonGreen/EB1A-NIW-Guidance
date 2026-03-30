@@ -1,30 +1,69 @@
-# EB1A + NIW Green Card DIY Guide
+<p align="center">
+  <img src="./assets/HorizonGreen_logo.png" width="200" />
+</p>
 
-由**地平线**和**山雪**编写，免费公开，原创首发于 [horizongreen.org](https://horizongreen.org/)
+# EB1A 杰出人才 + NIW 国家利益豁免 绿卡准备指南
 
-免费下载最新版 EB1A 杰出人才 + NIW 国家利益豁免 DIY 准备攻略指南:
+由**地平线**和**山雪**编写，免费公开，原创首发于 [HorizonGreen.org](https://horizongreen.org/)
 
-[地平线EB1A+NIW绿卡DIY指南-山雪_2026.02.pdf](https://github.com/HorizonGreen/EB1A-NIW-Guidance/blob/main/%E5%9C%B0%E5%B9%B3%E7%BA%BFEB1A%2BNIW%E7%BB%BF%E5%8D%A1DIY%E6%8C%87%E5%8D%97-%E5%B1%B1%E9%9B%AA_2026.02.pdf)
+---
 
-## About
+## 下载指南
 
-地平线基于 3,866+ 篇 AAO (Administrative Appeals Office) 上诉裁决的数据分析，覆盖 23 个专业领域，提供有据可查的申请策略。我们是科学家，不是律师 -- 用数据和证据说话。
+📥 [**地平线EB1A+NIW绿卡DIY指南-山雪_2026.02.pdf**](https://github.com/HorizonGreen/EB1A-NIW-Guidance/blob/main/%E5%9C%B0%E5%B9%B3%E7%BA%BFEB1A%2BNIW%E7%BB%BF%E5%8D%A1DIY%E6%8C%87%E5%8D%97-%E5%B1%B1%E9%9B%AA_2026.02.pdf)
 
-## Services
+2025-2026 年 NIW 和 EB1A 的审理标准发生了实质性变化：NIW 批准率从 96% 降至 54%，EB1A 第二关（Final Merits）成为真正的筛选门槛，SCOPS 全国统一调度让押中心、押时间的策略彻底失效。材料质量成为唯一变量。
 
-- **免费评估规划** -- 确定你的申请路径和证据强度
-- **定制委托写作** -- 阅读并分析您的背景材料，深度挖掘证据链逻辑，突出贡献和亮点，整理论文、专利、引用记录及相关附件，联系推荐人写推荐信。所有材料从零定制，不用模版，不需要您自己写研究和项目总结
+本次更新基于最新 RFE 趋势、3,800+ 份 AAO 判例分析和过去一年实际经手的案例经验。
 
-## About Us
+---
 
-**地平线** -- 基于 3,866+ 篇 AAO 上诉裁决的数据分析，覆盖 23 个专业领域
+## 3,866+ 份 AAO 判例分析
 
-**山雪** -- 医学科研与创业双重背景，已通过 NIW，撰写过科创白皮书，熟悉 NIW 与 EB1A 的政策逻辑
+我们系统分析了行政上诉办公室（AAO）的 **3,866 份判例**，拆解了每一个被拒案例的证据缺陷和裁决逻辑。覆盖 EB1A 和 NIW 的所有主流领域，是目前公开可查的最完整的 AAO 判例分析库。
 
-## Contact
+无论您准备 DIY 还是委托写作，这些判例分析都能帮您理解移民局真正在看什么、为什么拒、怎么避免同样的问题。
 
-- Website: [horizongreen.org](https://horizongreen.org/)
-- 地平线 WeChat: eb1a_horizon | 小红书: @地平线
-- 山雪 WeChat: SnowMount_29 | 小红书: @Mount Snow
+➡️ [在线浏览 AAO 判例库](https://horizongreen.org/AAO/)
 
-<img src="https://github.com/EB1A-Horizon/EB1A-Horizon/blob/main/地平线-微信二维码.jpg" width="400" />
+---
+
+## 定制委托写作
+
+不想 DIY？我们提供免费评估和全套定制写作服务。
+
+**地平线**负责全套申请材料：阅读分析背景材料，深度挖掘证据链逻辑，突出贡献亮点，整理论文、专利、引用记录，联系领域内推荐人。所有材料不用模版，无需您自己写研究总结。曾发表 50+ 篇论文，理解学术和工业研究的表达方式。
+
+**山雪**具有医学科研与创业双重背景，已通过 NIW，撰写过科创白皮书。熟悉 NIW 与 EB1A 的政策逻辑、审理标准与材料撰写。
+
+➡️ [查看通过案例](https://horizongreen.org/通过案例/)
+
+---
+
+## 联系我们
+
+|  | 微信 | 小红书 |
+|---|---|---|
+| **地平线** | eb1a_horizon | [@地平线](https://www.xiaohongshu.com/user/profile/5fb60b030000000001002437) |
+| **山雪** | SnowMount_29 | [@Mount Snow](https://xhslink.com/m/AlycYOpwA1c) |
+
+- 🌐 Website: [horizongreen.org](https://horizongreen.org/)
+- 📧 Email: [horizongreen1@gmail.com](mailto:horizongreen1@gmail.com)
+
+<p>
+  <img src="./assets/HorizonGreen_微信二维码.jpeg" width="280" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/SnowMount_29-wechat.jpg" width="280" />
+</p>
+
+---
+
+## 许可
+
+本指南采用 [CC BY-NC 4.0 DEED](https://creativecommons.org/licenses/by-nc/4.0/) 进行许可。
+
+> ⚠️ 已发现有不少中介在社交平台上篡改作者名字、洗稿、抄袭本指南并谎称为原创后售卖。欢迎顺手举报并联系作者。
+
+## Disclaimer
+
+I am a scientist, not a lawyer. The contents of this repository are provided for educational purposes only and are not intended to substitute for professional legal advice. Any use of this information is done at your own discretion and risk.
